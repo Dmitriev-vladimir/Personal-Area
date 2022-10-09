@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "role": "admin",
+      "password": "0000"
+    },
+    {
+      "name": "ivanov",
+      "role": "user",
+      "password": "1234"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Alekseev",
+      "email": "alekseev.1@mail.ru",
+      "tel": "8(123)999-45-99"
+    },
+    {
+      "id": "10",
+      "name": "Makarov",
+      "email": "makarov.10@mail.ru",
+      "tel": "8(999)677-22-10"
+    },
+    {
+      "name": "Ivanov",
+      "email": "ivanov@mail.com",
+      "tel": "89991234589",
+      "id": "0639408"
+    },
+    {
+      "name": "Petrov",
+      "email": "petrov@gmail.com",
+      "tel": "8999 999 21-03",
+      "id": "6269460"
+    },
+    {
+      "name": "Aleksandrov",
+      "email": "aleksandrov@rambler.ru",
+      "tel": "8999 999 21-03",
+      "id": "8162416"
+    },
+    {
+      "name": "Popov",
+      "email": "popov@gmail.com",
+      "tel": "8 999 323 04 50",
+      "id": "8288395"
+    }
+  ]
+}
